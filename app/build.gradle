@@ -4,7 +4,7 @@ android {
     compileSdkVersion 33
     defaultConfig {
         applicationId "com.ahren.google.registration"
-        minSdkVersion 21
+        minSdkVersion 22
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
